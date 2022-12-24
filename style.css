@@ -1,0 +1,44 @@
+#bedroom{
+margin-top: 100;
+margin-bottom: 10;
+margin-left: 600;
+margin-right: 500;
+padding-left: 115;
+text-align: center;
+}
+#animals{
+margin-top: 100;
+margin-bottom: 10;
+margin-left: 600;
+margin-right: 500;
+padding-left: 125;
+text-align: center;
+}
+#sea{
+    margin-top: 100;
+    margin-bottom: 10;
+    margin-left: 600;
+    margin-right: 500;
+    padding-left: 150;
+    text-align: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position:center;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius:10px;
+}
